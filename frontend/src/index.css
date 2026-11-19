@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* 1KOMMA5° brand palette; generates utilities such as bg-brand-teaser and text-brand-aubergine-500 */
+@theme {
+  --color-brand-aubergine-bg: rgb(251 245 255); /* #fbf5ff */
+  --color-brand-aubergine-500: rgb(92 6 140); /* #5c068c */
+  --color-brand-aubergine-600: rgb(73 4 112); /* #490470, hover state */
+  --color-brand-teaser: rgb(250 232 255); /* #fae8ff */
+}
